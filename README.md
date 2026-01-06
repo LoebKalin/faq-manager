@@ -29,7 +29,7 @@ The FAQ Manager app allows users to:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/dhawel/FAQ-manager.git
+git clone https://github.com/LoebKalin/faq-manager.git
 
 ```
 
@@ -66,7 +66,7 @@ To run the backend API of the app, follow these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/dhawel/FAQ-manager.git
+git clone https://github.com/LoebKalin/faq-manager.git
 
 ```
 
